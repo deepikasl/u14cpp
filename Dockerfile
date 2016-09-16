@@ -1,4 +1,4 @@
-FROM drydock/u14:tip
+FROM drydock/u14:{{%TAG%}}
 
 ADD . /u14cpp
 
